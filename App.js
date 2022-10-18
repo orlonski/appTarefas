@@ -56,7 +56,6 @@ export default function App() {
 
   }, [user])
 
-
   function handleAdd(){
     if(newTask === ''){
       return;
